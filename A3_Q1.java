@@ -23,12 +23,12 @@ public class A3_Q1 {
 
 
 		//System.out.println("this is a test change to learn to use branches in git");
-		System.out.println("this is a test to figure out branches and what not"+
+		//System.out.println("this is a test to figure out branches and what not"+
 		
 				
 				
 				
-				"sfada");
+				//"sfada");
 
 		//intialize ballance, run, option variables
 		float ballance=0;
