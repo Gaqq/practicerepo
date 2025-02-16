@@ -20,6 +20,7 @@ public class A3_Q1 {
 		//welcome message
 		System.out.println("Welcome to the Best Bank ATM!");
 		//System.out.println("this was a test change to learn git");
+		System.out.println("this is a test change to learn to use branches in git");
 		//intialize ballance, run, option variables
 		float ballance=0;
 		
