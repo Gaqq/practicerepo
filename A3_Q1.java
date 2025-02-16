@@ -20,7 +20,16 @@ public class A3_Q1 {
 		//welcome message
 		System.out.println("Welcome to the Best Bank ATM!");
 		//System.out.println("this was a test change to learn git");
-		System.out.println("this is a change made in master branch to see what happens");
+
+
+		//System.out.println("this is a test change to learn to use branches in git");
+		System.out.println("this is a test to figure out branches and what not"+
+		
+				
+				
+				
+				"sfada");
+
 		//intialize ballance, run, option variables
 		float ballance=0;
 		
